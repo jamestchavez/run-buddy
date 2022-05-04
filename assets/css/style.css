@@ -73,14 +73,17 @@ section {
 /*hero style start*/
 
 .hero {
-  background-image: url("../images/hero-bg.jpg");
+  background-image: url("../images/hero-bg3.png");
   height: 600px;
   background-size: cover;
   background-position: center;
   position: relative;
 }
 .hero-habit-content {
-  width: 500px;
+  width: 400px;
+}
+.hero-habit-content p {
+  padding: 5px;
 }
 .hero-form {
   background-color: #fce138;
